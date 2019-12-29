@@ -1,0 +1,4 @@
+﻿App para control de presencia de empleados mediante lectura de código de barras u otro lector,
+
+Entorno NODE hecho con Javascript.
+
